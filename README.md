@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I AM DENNIS PETER MUNYAO</h1>
 
-<h3 align="center">A passionate fullstack developer</h3>
+<h3 align="center" style="font-weight:bold; color:#ff004f;">A PASSIONATE FULLSTACK ENGINEER</h3>
 
 🔭I’m currently working on **Writer's client unifier**
 
