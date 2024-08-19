@@ -3,9 +3,6 @@
 <h3 align="center" style="font-weight:bold; color:#ff004f;">A PASSIONATE FULLSTACK ENGINEER</h3>
 
 <p align="center" style="font-weight:bold; color:#ff004f;">
-  🔭 I’m currently working on <strong>Writer's client unifier</strong>
-</p>
-<p align="center" style="font-weight:bold; color:#ff004f;">
   🌱 I’m currently learning <strong>Angular, Dotnet</strong>
 </p>
 <p align="center" style="font-weight:bold; color:#ff004f;">
