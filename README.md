@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm DENNIS PETER MUNYAO</h1>
 <h3 align="center">A passionate fullstack developer!</h3>
 
-🌱 I’m currently learning **Block Chain**
-
 👨‍💻 You can check my portfolio <a href="https://codewithmunyao.vercel.app" target="_blank">Visit My Portfolio</a>
 
 💬 Ask me about **Angular, React, NodeJs, Nest**
