@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/dennis-peter-76275a2a0/)  
+🌐 Connect with me on [LinkedIn](www.linkedin.com/in/codewithmunyao)  
 🔗 Check out my GitHub: [Ritahchanger](https://github.com/Ritahchanger)
 
 </p>
