@@ -3,7 +3,7 @@
 
 🌱 I’m currently learning **Block Chain**
 
-👨‍💻 You can check my portfolio [codewithmunyao.vercel.app](codewithmunyao.vercel.app)
+👨‍💻 You can check my portfolio [Visit My Portfolio](https://codewithmunyao.vercel.app)
 
 💬 Ask me about **Angular,React,NodeJs,Nest,**
 
