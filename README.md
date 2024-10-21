@@ -1,6 +1,5 @@
 # Hi, I'm Dennis Peter! 👋
 
-![Coding GIF](https://user-images.githubusercontent.com/36126914/154766367-2c3d9c80-3cdc-4790-b15c-7eba5eee9fd2.gif)
 
 I'm a **Fullstack Developer** with a passion for building scalable web applications and working with modern technologies. I have experience in both frontend and backend development, specializing in **React.js**, **Next.js**, **Angular**, **Express**, **MongoDB**, **FastAPI**, and **Linux**.
 
