@@ -26,9 +26,15 @@ I'm a **Fullstack Developer** with a passion for building scalable web applicati
 
 ## 🌍 Connect With Me
 <div style="display: flex; gap: 10px;">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" onclick="window.open('https://codewithmunyao.vercel.app', '_blank')" style="cursor: pointer;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" onclick="window.open('https://www.linkedin.com/in/dennis-peter-76275a2a0/', '_blank')" style="cursor: pointer;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" onclick="window.open('mailto:peterdennis573@gmail.com')" style="cursor: pointer;">
+    <a href="https://codewithmunyao.vercel.app" target="_blank" style="all: unset; cursor: pointer;">
+        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+    </a>
+    <a href="https://www.linkedin.com/in/dennis-peter-76275a2a0/" target="_blank" style="all: unset; cursor: pointer;">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:peterdennis573@gmail.com" style="all: unset; cursor: pointer;">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
 </div>
 
 ---
