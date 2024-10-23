@@ -35,6 +35,9 @@ I'm a **Fullstack Developer** with a passion for building scalable web applicati
     <a href="mailto:peterdennis573@gmail.com" style="all: unset; cursor: pointer;">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
+    <a href="https://www.tiktok.com/@ritahchanger" target="_blank" style="all: unset; cursor: pointer;">
+        <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
+    </a>
 </div>
 
 ---
