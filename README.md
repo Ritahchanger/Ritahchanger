@@ -60,16 +60,12 @@ A **hospital management system** built with the MERN stack (**MongoDB**, **Expre
 - **Backend Development:** Express.js, FastAPI, Node.js
 - **Databases:** MongoDB, SQL
 - **Linux & DevOps:** Docker, Shell Scripting
----
-# Hi, I'm Dennis Peter Munyao! 👋
-
-I'm a **Fullstack Developer** with a passion for building scalable web applications. I specialize in **React.js**, **Next.js**, **Angular**, **Express**, **MongoDB**, and **FastAPI**.
-
+  
 ---
 
 ## 📊 GitHub Stats & 💻 Top Languages
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between;width:100%;">
     <img src="https://github-readme-stats.vercel.app/api?username=ritahchanger&show_icons=true&theme=radical" alt="GitHub Stats" height="200px"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritahchanger&layout=compact&theme=radical" alt="Top Languages" height="200px"/>
 </div>
