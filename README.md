@@ -54,21 +54,11 @@ An online bookstore built with **React.js**, **Node.js**, and **MongoDB**, provi
 ### 3. [MediLink](https://github.com/Ritahchanger/mediLink)
 A **hospital management system** built with the MERN stack (**MongoDB**, **Express**, **React**, **Node.js**) to manage patients, appointments, and doctor schedules. 
 
-
-## 🏆 Top Skills
-
-- **Backend Development:** Express.js, FastAPI, Node.js
-- **Databases:** MongoDB, SQL
-- **Linux & DevOps:** Docker, Shell Scripting
-  
----
-
 ## 🌱 GitHub Activity Graph
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ritahchanger&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
-
 ## 📊 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=ritahchanger&show_icons=true&theme=radical" alt="GitHub Stats" height="200px"/>
 
