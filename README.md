@@ -61,8 +61,25 @@ A **hospital management system** built with the MERN stack (**MongoDB**, **Expre
 - **Databases:** MongoDB, SQL
 - **Linux & DevOps:** Docker, Shell Scripting
 ---
-## 📊 GitHub Stats
+# Hi, I'm Dennis Peter Munyao! 👋
 
-![Dennis's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritahchanger&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritahchanger&layout=compact&theme=radical)
+I'm a **Fullstack Developer** with a passion for building scalable web applications. I specialize in **React.js**, **Next.js**, **Angular**, **Express**, **MongoDB**, and **FastAPI**.
+
+---
+
+## 📊 GitHub Stats & 💻 Top Languages
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github-readme-stats.vercel.app/api?username=ritahchanger&show_icons=true&theme=radical" alt="GitHub Stats" height="200px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritahchanger&layout=compact&theme=radical" alt="Top Languages" height="200px"/>
+</div>
+
+---
+
+## 🌱 GitHub Activity Graph
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ritahchanger&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
 
