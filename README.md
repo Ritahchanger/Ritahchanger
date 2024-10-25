@@ -60,3 +60,9 @@ A **hospital management system** built with the MERN stack (**MongoDB**, **Expre
 - **Backend Development:** Express.js, FastAPI, Node.js
 - **Databases:** MongoDB, SQL
 - **Linux & DevOps:** Docker, Shell Scripting
+---
+## 📊 GitHub Stats
+
+![Dennis's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritahchanger&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritahchanger&layout=compact&theme=radical)
+
