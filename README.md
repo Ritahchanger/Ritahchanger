@@ -42,7 +42,7 @@ I'm a **Fullstack Developer** with a passion for building scalable web applicati
 
 ---
 
-## 💼 Projects
+### 💼 Projects ###
 
 [Writers Clients Unifier](https://bmwriters.com/)
 A complete (Freelancing) platform for writers and clients to manage assignments, bids, deadlines, and revisions. Writers can bid on jobs and admins manage assignment workflows and deadlines. 
