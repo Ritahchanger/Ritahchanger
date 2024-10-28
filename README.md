@@ -44,21 +44,8 @@ I'm a **Fullstack Developer** with a passion for building scalable web applicati
 
 ## 💼 Projects
 
-
 ### 1. [Writers Clients Unifier](https://bmwriters.com/)
 A complete platform for writers and clients to manage assignments, bids, deadlines, and revisions. Writers can bid on jobs and admins manage assignment workflows and deadlines. 
 
-### 2. [Online E-commerce Bookstore](https://github.com/Ritahchanger/onlinebookstore)
-An online bookstore built with **React.js**, **Node.js**, and **MongoDB**, providing a seamless user experience for browsing and purchasing books. 
 
-### 3. [MediLink](https://github.com/Ritahchanger/mediLink)
-A **hospital management system** built with the MERN stack (**MongoDB**, **Express**, **React**, **Node.js**) to manage patients, appointments, and doctor schedules. 
-
-## 🌱 GitHub Activity Graph
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ritahchanger&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=ritahchanger&show_icons=true&theme=radical" alt="GitHub Stats" height="200px"/>
 
