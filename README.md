@@ -1,8 +1,7 @@
-# Hi, I'm DENNIS PETER MUNYAO! 👋
-
-I'm a **Fullstack Developer** with a passion for building scalable web applications and working with modern technologies. I have experience in both frontend and backend development.
-
----
+<div style="text-align:center;">
+  <h1 style="text-align:center;">Hi, I'M DENNIS PETER MUNYAO! 👋</h1>
+  <h2 style="text-align:center;">FULL STACK DEVELOPER 👋</h2>
+</div>
 
 ## 🔧 Tech Stack
 
