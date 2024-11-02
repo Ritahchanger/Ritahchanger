@@ -1,6 +1,6 @@
 # Hi, I'm DENNIS PETER MUNYAO! 👋
 
-I'm a **Fullstack Developer** with a passion for building scalable web applications and working with modern technologies. I have experience in both frontend and backend development, specializing in **React.js**, **Next.js**, **Angular**, **Express**, **MongoDB**, and **FastAPI**.
+I'm a **Fullstack Developer** with a passion for building scalable web applications and working with modern technologies. I have experience in both frontend and backend development.
 
 ---
 
