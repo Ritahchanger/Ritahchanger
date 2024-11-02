@@ -1,6 +1,6 @@
 <div style="text-align:center;">
   <h1 style="text-align:center;">Hi, I'M DENNIS PETER MUNYAO! 👋</h1>
-  <h2 style="text-align:center;">FULL STACK DEVELOPER 👋</h2>
+  <h2 style="text-align:center;">FULL STACK DEVELOPER </h2>
 </div>
 
 ## 🔧 Tech Stack
