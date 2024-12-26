@@ -1,6 +1,5 @@
 <div style="text-align:center;">
-  <h2 style="text-align:center;">Hi, I'M DENNIS PETER MUNYAO! 👋</h2>
-  <h2 style="text-align:center;">FULL STACK DEVELOPER </h2>
+  <h2 style="text-align:center;">HI, I'M DENNIS PETER MUNYAO! A FULL STACK DEVELOPER 👋 </h2>
 </div>
 
 ## 🔧 Tech Stack
@@ -31,8 +30,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=ritahchanger&show_icons=true&theme=radical" style="max-width: 100%; height: auto;" alt="Ritah Changer's GitHub Stats">
   </div>
 </div>
-
----
 
 ## 🌍 Connect With Me
 <div style="display: flex; gap: 10px;">
