@@ -24,12 +24,7 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   </div>
-  
-  ##
-  
-  <div style="width: 100%; text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api?username=ritahchanger&show_icons=true&theme=radical" style="max-width: 100%; height: auto;" alt="Ritah Changer's GitHub Stats">
-  </div>
+
 </div>
 
 ## 🌍 Connect With Me
