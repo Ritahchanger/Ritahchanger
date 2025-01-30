@@ -52,4 +52,24 @@
 A complete (Freelancing) platform for writers and clients to manage assignments, bids, deadlines, and revisions. Writers can bid on jobs and admins manage assignment workflows and deadlines. 
 
 
+<details>
+  <summary><strong>🔍 My Coding Journey</strong></summary>
+  <p>I've always had a passion for solving problems with technology. My journey began in high school when I first discovered programming. Since then, I've expanded my knowledge and expertise across a wide range of technologies and frameworks.
 
+Starting with C++, I explored the basics of programming and began to understand the logic behind software development. My curiosity led me to web development, where I quickly fell in love with building interactive websites. Through my learning journey, I found myself increasingly drawn to Backend Development, learning how to build robust server-side applications with Node.js and Express.
+
+As I continued my career, I developed a deep interest in JavaScript, mastering the language and using it for both front-end and back-end development. With frameworks like React, I embraced Full-Stack Development, designing efficient and scalable web applications that bridged the gap between users and the data they need.
+
+I'm constantly expanding my skill set, exploring new technologies like FastAPI, NestJS, and Docker. Every step of the way, I've pushed myself to grow and learn, with a goal of delivering solutions that make an impact. My coding journey is just getting started, and I'm excited for what the future holds!
+</p>
+  
+  <div style="display: flex; gap: 15px;">
+    <img src="https://img.shields.io/badge/Started%20with%20C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Started with C++">
+    <img src="https://img.shields.io/badge/Web%20Development-4CAF50?style=for-the-badge&logo=html5&logoColor=white" alt="Web Development">
+    <img src="https://img.shields.io/badge/Backend%20Developer-DB4437?style=for-the-badge&logo=node.js&logoColor=white" alt="Backend Developer">
+    <img src="https://img.shields.io/badge/JavaScript%20Master-FFCC00?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Master">
+    <img src="https://img.shields.io/badge/Full%20Stack-FF6F00?style=for-the-badge&logo=react&logoColor=white" alt="Full Stack Developer">
+  </div>
+  
+  <p>Over the years, I have worked with various technologies, from learning the fundamentals of C++ to building full-stack web applications. Currently, I focus on full-stack development with modern frameworks such as React, Node.js, and Express.</p>
+</details>
