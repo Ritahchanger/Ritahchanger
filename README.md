@@ -13,7 +13,7 @@
   <p>I'm constantly expanding my skill set, exploring new technologies like FastAPI, NestJS, and Docker. Every step of the way, I've pushed myself to grow and learn, with a goal of delivering solutions that make an impact. My coding journey is just getting started, and I'm excited for what the future holds!</p>
   <div style="display: flex; gap: 15px;">
   <img src="https://img.shields.io/badge/Started%20with%20C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Started with C++">
-  <img src="https://img.shields.io/badge/Web%20Development-4CAF50?style=for-the-badge&logo=html5&logoColor=white" alt="Web Development">
+  <img src="https://img.shields.io/badge/Web%20Development-4CAF50?style=for-the-badge&logo=html5&logoColor=white" alt="UI/UX Developer">
   <img src="https://img.shields.io/badge/Backend%20Developer-DB4437?style=for-the-badge&logo=node.js&logoColor=white" alt="Backend Developer">
   <img src="https://img.shields.io/badge/JavaScript%20Master-FFCC00?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Master">
   <img src="https://img.shields.io/badge/Full%20Stack-FF6F00?style=for-the-badge&logo=react&logoColor=white" alt="Full Stack Developer">
