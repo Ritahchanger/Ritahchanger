@@ -62,7 +62,7 @@
   <a href="https://www.tiktok.com/@ritahchanger" target="_blank" style="all: unset; cursor: pointer;">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
   </a>
-  <a href="https://www.youtube.com/@Dennispeter_3" target="_blank" style="all: unset; cursor: pointer;">
+  <a href="https://www.youtube.com/@Dennispetermunyao" target="_blank" style="all: unset; cursor: pointer;">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
 </div>
