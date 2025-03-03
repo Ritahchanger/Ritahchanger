@@ -62,8 +62,8 @@ Maktrendy is a financial analytics and stock prediction platform designed for fi
 - ✅ **Secure financial transactions**
 #### 🔹 Tech Stack:
 - **Frontend:** React,CSS,ReduxToolkit, Tailwind CSS  
-- **Backend:** Node.js, NestJS, Express, FastAPI  
-- **Database:** MongoDB, PostgreSQL  
+- **Backend:** Node.js,TypeScript, Express, Flask
+- **Database:** MongoDB, MySql  
 - **AI & Analytics:** Python (Pandas,TensorFlow, NumPy, Scikit-learn)  
 - **Infrastructure:** Docker, Firebase  
 #### 🔹 Impact:
