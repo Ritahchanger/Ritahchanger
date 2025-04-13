@@ -54,20 +54,3 @@ I create educational content and tutorials on YouTube, helping others learn codi
 ### [Writers Clients Unifier](https://bmwriters.com/)
 A complete freelancing platform for writers and clients to manage assignments, bids, deadlines, and revisions. Writers can bid on jobs, and admins manage assignment workflows and deadlines.
 
-### Maktrendy - Financial System
-Maktrendy is a financial analytics and stock prediction platform designed for financial institutions and educated trading.
-#### 🔹 Key Features:
-- ✅ **Real-time stock analysis**
-- ✅ **AI-driven market predictions**
-- ✅ **Portfolio risk assessment**
-- ✅ **Historical data visualization**
-- ✅ **Secure financial transactions**
-#### 🔹 Tech Stack:
-- **Frontend:** React,CSS,ReduxToolkit, Tailwind CSS  
-- **Backend:** Node.js,TypeScript, Express, Flask
-- **Database:** MongoDB, MySql  
-- **AI & Analytics:** Python (Pandas,TensorFlow, NumPy, Scikit-learn)  
-- **Infrastructure:** Docker, Firebase  
-#### 🔹 Impact:
-Maktrendy empowers traders and financial institutions with data-driven insights to make strategic investment decisions.(I have put the system as a private repo)
-
