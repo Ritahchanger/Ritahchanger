@@ -43,7 +43,11 @@
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@ritahchanger)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Dennispetermunyao)
 
+![](https://nirzak-streak-stats.vercel.app/?user=ritahchanger&theme=dark&hide_border=false)<br/>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ritahchanger&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+[![](https://visitcount.itsvg.in/api?id=ritahchanger&icon=0&color=0)](https://visitcount.itsvg.in)
 ## 🎓 Educator & Content Creator
 I create educational content and tutorials on YouTube, helping others learn coding and software development.
 
