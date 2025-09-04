@@ -33,8 +33,11 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092D43?style=for-the-badge&logo=django&logoColor=white)
+---
 
+![](https://nirzak-streak-stats.vercel.app/?user=ritahchanger&theme=dark&hide_border=false)<br/>
 
+---
 ## 🌍 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://codewithmunyao.vercel.app)
@@ -45,8 +48,6 @@
 
 ## 🎓 Educator & Content Creator
 I create educational content and tutorials on YouTube, helping others learn coding and software development.
-
----
 
 ## 🎥 Some of my tutorials 
 
