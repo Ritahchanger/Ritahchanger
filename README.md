@@ -43,10 +43,6 @@
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@ritahchanger)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Dennispetermunyao)
 
-![](https://nirzak-streak-stats.vercel.app/?user=ritahchanger&theme=dark&hide_border=false)<br/>
-
-
-
 ## 🎓 Educator & Content Creator
 I create educational content and tutorials on YouTube, helping others learn coding and software development.
 
