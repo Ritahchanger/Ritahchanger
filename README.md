@@ -59,7 +59,7 @@ A complete freelancing platform for writers and clients to manage assignments, b
 
 ---
 
-## 🎥 Featured YouTube Videos  
+## 🎥 Some of my tutorials 
 
 <table>
   <tr>
