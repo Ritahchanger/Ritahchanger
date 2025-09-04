@@ -48,13 +48,6 @@ I create educational content and tutorials on YouTube, helping others learn codi
 
 ---
 
-## 💼 Projects
-
-### [Writers Clients Unifier](https://bmwriters.com/)
-A complete freelancing platform for writers and clients to manage assignments, bids, deadlines, and revisions. Writers can bid on jobs, and admins manage assignment workflows and deadlines.
-
----
-
 ## 🎥 Some of my tutorials 
 
 <table>
@@ -87,3 +80,10 @@ A complete freelancing platform for writers and clients to manage assignments, b
     </td>
   </tr>
 </table>
+
+## 💼 Projects
+
+### [Writers Clients Unifier](https://bmwriters.com/)
+A complete freelancing platform for writers and clients to manage assignments, bids, deadlines, and revisions. Writers can bid on jobs, and admins manage assignment workflows and deadlines.
+
+---
