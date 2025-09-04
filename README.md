@@ -45,9 +45,8 @@
 
 ![](https://nirzak-streak-stats.vercel.app/?user=ritahchanger&theme=dark&hide_border=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ritahchanger&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![](https://visitcount.itsvg.in/api?id=ritahchanger&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ## 🎓 Educator & Content Creator
 I create educational content and tutorials on YouTube, helping others learn coding and software development.
 
@@ -58,3 +57,37 @@ I create educational content and tutorials on YouTube, helping others learn codi
 ### [Writers Clients Unifier](https://bmwriters.com/)
 A complete freelancing platform for writers and clients to manage assignments, bids, deadlines, and revisions. Writers can bid on jobs, and admins manage assignment workflows and deadlines.
 
+---
+
+## 🎥 Featured YouTube Videos  
+
+<table>
+  <tr>
+    <td>
+      <a href="https://youtu.be/sLDOf2LHsFM">
+        <img src="https://img.youtube.com/vi/sLDOf2LHsFM/maxresdefault.jpg" alt="TanStack Query Tutorial"/>
+      </a>
+      <p><b>TanStack Query Tutorial</b> – A deep dive into TanStack Query and React Query mutations.</p>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=i6fD0is4bWE">
+        <img src="https://img.youtube.com/vi/i6fD0is4bWE/maxresdefault.jpg" alt="React + Node.js Freelancing Platform"/>
+      </a>
+      <p><b>React + Node.js Freelancing Platform</b> – Building a complete freelancing system for writers and clients.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://youtu.be/FRNmrfhGFFI">
+        <img src="https://img.youtube.com/vi/FRNmrfhGFFI/maxresdefault.jpg" alt="State Management in Next.js with Redux & TS"/>
+      </a>
+      <p><b>State Management in Next.js</b> – Managing state with Redux & TypeScript.</p>
+    </td>
+    <td>
+      <a href="https://youtu.be/BExflaPhyQI">
+        <img src="https://img.youtube.com/vi/BExflaPhyQI/maxresdefault.jpg" alt="Nginx Caching and Load Balancing"/>
+      </a>
+      <p><b>Nginx Caching & Load Balancing</b> – Boosting performance with Nginx.</p>
+    </td>
+  </tr>
+</table>
