@@ -18,22 +18,21 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-7F5AF0?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-7F5AF0?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-7F5AF0?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-7F5AF0?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-7F5AF0?style=for-the-badge&logo=nestjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-7F5AF0?style=for-the-badge&logo=fastapi&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-7F5AF0?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-7F5AF0?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-7F5AF0?style=for-the-badge&logo=firebase&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-7F5AF0?style=for-the-badge&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-7F5AF0?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-7F5AF0?style=for-the-badge&logo=docker&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-7F5AF0?style=for-the-badge&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-7F5AF0?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-7F5AF0?style=for-the-badge&logo=django&logoColor=white)
-
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092D43?style=for-the-badge&logo=django&logoColor=white)
 ---
 
 ![](https://github-readme-stats.vercel.app/api?username=ritahchanger&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
@@ -41,14 +40,13 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=ritahchanger&theme=midnight-purple&hide_border=false)<br/>
 
 ---
-
 ## 🌍 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-7F5AF0?style=for-the-badge&logo=vercel&logoColor=white)](https://codewithmunyao.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7F5AF0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dennis-peter-76275a2a0/)
-[![Gmail](https://img.shields.io/badge/Gmail-7F5AF0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:peterdennis573@gmail.com)
-[![TikTok](https://img.shields.io/badge/TikTok-7F5AF0?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@ritahchanger)
-[![YouTube](https://img.shields.io/badge/YouTube-7F5AF0?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Dennispetermunyao)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://codewithmunyao.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dennis-peter-76275a2a0/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:peterdennis573@gmail.com)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@ritahchanger)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Dennispetermunyao)
 
 ## 🎓 Educator & Content Creator
 I create educational content and tutorials on YouTube, helping others learn coding and software development.
@@ -90,3 +88,5 @@ I create educational content and tutorials on YouTube, helping others learn codi
 
 ### [Writers Clients Unifier](https://bmwriters.com/)
 A complete freelancing platform for writers and clients to manage assignments, bids, deadlines, and revisions. Writers can bid on jobs, and admins manage assignment workflows and deadlines.
+
+---
