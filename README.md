@@ -35,9 +35,9 @@
 ![Django](https://img.shields.io/badge/Django-092D43?style=for-the-badge&logo=django&logoColor=white)
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=ritahchanger&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=ritahchanger&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 
-![](https://nirzak-streak-stats.vercel.app/?user=ritahchanger&theme=midnight-purple&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ritahchanger&theme=radical&hide_border=false)<br/>
 
 ---
 ## 🌍 Connect With Me
