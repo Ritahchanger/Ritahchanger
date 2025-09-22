@@ -73,11 +73,11 @@ I create educational content and tutorials on YouTube, helping others learn codi
       </a>
       <p><b>State Management in Next.js</b> – Managing state with Redux & TypeScript.</p>
     </td>
-    <td>
-      <a href="https://youtu.be/BExflaPhyQI">
-        <img src="https://img.youtube.com/vi/BExflaPhyQI/maxresdefault.jpg" alt="Nginx Caching and Load Balancing"/>
+     <td>
+      <a href="https://www.youtube.com/watch?v=Ed94u4VqTN0&t=1s">
+        <img src="https://img.youtube.com/vi/Ed94u4VqTN0/maxresdefault.jpg" alt="Next.js 15 + Redux Toolkit + Axios: Build a TypeScript, with Async Thunks and Interceptors"/>
       </a>
-      <p><b>Nginx Caching & Load Balancing</b> – Boosting performance with Nginx.</p>
+      <p><b>Next.js 15 + Redux Toolkit + Axios</b> – Build a TypeScript app with Async Thunks and Interceptors.</p>
     </td>
   </tr>
 </table>
