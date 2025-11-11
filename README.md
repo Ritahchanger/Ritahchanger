@@ -1,17 +1,29 @@
-# 👨‍💻 I'M DENNIS PETER MUNYAO
+# I'M DENNIS PETER MUNYAO
 
-## 🔍 My Coding Journey
+## My Coding Journey
 <details>
-  <summary>Click to Expand</summary>
-  
-  I've always had a passion for solving problems with technology. My journey began in high school when I first discovered programming. Since then, I've expanded my knowledge and expertise across a wide range of technologies and frameworks.
+  <summary>🎯 <strong>My Engineering Journey</strong></summary>
 
-  Starting with C++, I explored the basics of programming and began to understand the logic behind software development. My curiosity led me to web development, where I quickly fell in love with building interactive websites. Through my learning journey, I found myself increasingly drawn to Backend Development, learning how to build robust server-side applications with Node.js and Express.
+My passion for technology began in high school. Got into university, where I started coding with **C++**, where I discovered the power of logical problem-solving. This foundation led me to web development, where I quickly gravitated toward **backend systems** and **scalable architecture**.
 
-  As I continued my career, I developed a deep interest in JavaScript, mastering the language and using it for both front-end and back-end development. With frameworks like React, I embraced Full-Stack Development, designing efficient and scalable web applications that bridged the gap between users and the data they need.
+Today, I specialize in building **robust cloud-native applications** and **distributed systems**. My expertise spans **NestJS**, **Python**, and modern cloud platforms like **GCP** and **AWS**, with deep experience in:
 
-  I'm constantly expanding my skill set, exploring new technologies like FastAPI, NestJS, and Docker. Every step of the way, I've pushed myself to grow and learn, with a goal of delivering solutions that make an impact. My coding journey is just getting started, and I'm excited for what the future holds!
+- System design  
+- Microservices  
+- Event-driven architectures  
+
+I've designed and implemented production-grade systems, including:
+
+✅ **High-throughput message queue systems** (RabbitMQ, Pub/Sub)  
+✅ **Scalable email campaign platforms** handling 20,000+ emails  
+✅ **Real-time applications** powered by WebSockets and event sourcing  
+✅ **Cloud-native microservices** with container orchestration  
+✅ **API backends** with authentication, rate limiting, and monitoring  
+
+I'm constantly evolving my skills in **distributed systems**, **cloud infrastructure**, and **performance optimization**. From designing **YouTube-like video processing pipelines** to **enterprise-grade email systems**, I thrive on solving complex scalability challenges.
+
 </details>
+
 
 ## 🔧 Tech Stack
 
@@ -38,7 +50,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=ritahchanger&theme=radical&hide_border=false)<br/>
 
 ---
-## 🌍 Connect With Me
+## Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://codewithmunyao.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dennis-peter-76275a2a0/)
@@ -46,10 +58,10 @@
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@codewithmunyao)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Dennispetermunyao)
 
-## 🎓 Educator & Content Creator
+## Educator & Content Creator
 I create educational content and tutorials on YouTube, helping others learn coding and software development.
 
-## 🎥 Some of my tutorials 
+## Some of my tutorials 
 
 <table>
   <tr>
