@@ -4,9 +4,9 @@
 <details>
   <summary>🎯 <strong>My Engineering Journey</strong></summary>
 
-My passion for technology began in high school. Got into university, where I started coding with **C++**, where I discovered the power of logical problem-solving. This foundation led me to web development, where I quickly gravitated toward **backend systems** and **scalable architecture**.
+My passion for technology began in high school. Got into university, where I started coding with **C++**, and I discovered the power of logical problem-solving. This foundation led me to web development, where I quickly gravitated toward **backend systems** and **scalable architecture**.
 
-Today, I specialize in building **robust cloud-native applications** and **distributed systems**. My expertise spans **NestJS**, **Python**, and modern cloud platforms like **GCP** and **AWS**, with deep experience in:
+Today, I specialize in building robust cloud-native applications and distributed systems. My expertise spans **REACTJS**, **NEXTJS**, **ANGULARJS**, **NESTJS**, **PYTHON**, and modern cloud platforms like **GCP** and **AWS**, with deep experience in:
 
 - System design  
 - Microservices  
@@ -15,12 +15,12 @@ Today, I specialize in building **robust cloud-native applications** and **distr
 I've designed and implemented production-grade systems, including:
 
 ✅ **High-throughput message queue systems** (RabbitMQ, Pub/Sub)  
-✅ **Scalable email campaign platforms** handling 20,000+ emails  
+✅ **Scalable email campaign platforms** handing multiple emails
 ✅ **Real-time applications** powered by WebSockets and event sourcing  
 ✅ **Cloud-native microservices** with container orchestration  
 ✅ **API backends** with authentication, rate limiting, and monitoring  
 
-I'm constantly evolving my skills in **distributed systems**, **cloud infrastructure**, and **performance optimization**. From designing **YouTube-like video processing pipelines** to **enterprise-grade email systems**, I thrive on solving complex scalability challenges.
+I continually refine my skills in **distributed systems**, **cloud infrastructure**, and **performance optimization**. From designing **YouTube-like video processing pipelines** to **enterprise-grade email systems**, I thrive on solving complex scalability challenges.
 
 </details>
 
