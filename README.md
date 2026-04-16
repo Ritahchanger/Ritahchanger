@@ -47,9 +47,6 @@ I continually refine my skills in **distributed systems**, **cloud infrastructur
 ![Django](https://img.shields.io/badge/Django-092D43?style=for-the-badge&logo=django&logoColor=white)
 ---
 
-![](https://nirzak-streak-stats.vercel.app/?user=ritahchanger&theme=radical&hide_border=false)<br/>
-
----
 ## Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://codewithmunyao.vercel.app)
